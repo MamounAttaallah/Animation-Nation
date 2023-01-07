@@ -1,0 +1,22 @@
+h1{
+    margin: auto;
+    margin-top: 200px;
+    padding: 20px;
+    text-align: center;
+  border: 1px solid black;
+  width: 200px;
+  height: 100px;
+  background-color: coral;
+  color: white;
+  animation: mymove 5s infinite;
+  animation-fill-mode: forwards;
+
+
+
+}
+
+@keyframes mymove {
+  50% {transform: rotate(180deg);}
+  from {top: 0px;}
+  to {top: 200px; background-color: blue;}
+}

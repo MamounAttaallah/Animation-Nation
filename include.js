@@ -6526,6 +6526,15 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    
+      artName: 'mok',
+      pageLink: './Art/mok/index.html',
+      imageLink: './Art/mok/mok.gif',
+      author: 'mamon',
+      githubLink: 'https://github.com/MamounAttaallah'
+    
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
